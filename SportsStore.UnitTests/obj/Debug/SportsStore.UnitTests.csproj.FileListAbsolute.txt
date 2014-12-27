@@ -31,3 +31,4 @@ C:\Users\Максим\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System
 C:\Users\Максим\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
 C:\Users\Максим\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
 C:\Users\Максим\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Максим\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
